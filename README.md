@@ -9,12 +9,6 @@
 <div size='20px'> Hi! My name is Akshpreet. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<br>
-
-<img width="55%" align="center" alt="Github" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
-<br>
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 <h3>Programming Languages</h3>
